@@ -22,5 +22,8 @@ Another thing hiding on the board is a re-usable 16MB Winbond Flash chip for SPI
 ![()](05_rom_pin.png)
 
 ## Extra
-There was a small 8-bit MCU to control a tiny monochrome LCD. Perhaps, worth getting back to it some day.
+There was a small 8-bit MCU to control a tiny monochrome LCD. It is a mask ROM chip, though.
+![()](07_mcu.jpg)
+
+
 There is also a big interesting chip ST 1825-0435, it's 12x12 BGA - with no other details known about it.
