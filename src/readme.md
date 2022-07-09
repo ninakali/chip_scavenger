@@ -2,7 +2,9 @@
 
 
 ## Methods
+* [Pewter as a solder (when you have no tin)](./methods/001_pewter_solder/index.md)
 * [Baking: unsoldering chips in an oven](./methods/000_baking/index.md)
+
 
 ## Scavenges
 * [PIC16F from a photoepilator](./scavenge/000_photoepilator/index.md)
