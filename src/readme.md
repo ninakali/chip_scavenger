@@ -4,6 +4,7 @@
 ## Methods
 * [Pewter as a solder (when you have no tin)](./methods/001_pewter_solder/index.md)
 * [Baking: unsoldering chips in an oven](./methods/000_baking/index.md)
+* [POORLY made substitutes for passive components](./methods/002_poor_substitues/index.md)
 
 
 ## Scavenges
