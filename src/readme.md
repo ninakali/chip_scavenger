@@ -12,3 +12,4 @@
 * [8MB SDRAM and 2MB Flash from a DVD player](./scavenge/001_dvd/index.md)
 * [WiFi, 64MB SDRAM and 16MB Flash from a printer](./scavenge/002_printer/index.md)
 * [Mysterious microcontroller in a pet fountain](./scavenge/003_fountain/index.md)
+* [Mysterious microcontroller in a foot file](src/scavenge/004_foot_file/index.md)
