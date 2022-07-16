@@ -15,3 +15,4 @@
 * ✅ [WiFi, 64MB SDRAM and 16MB Flash from a printer](./scavenge/002_printer/index.md)
 * ❓ [Mysterious microcontroller in a pet fountain](./scavenge/003_fountain/index.md)
 * ❓ [Mysterious microcontroller in a foot file](./scavenge/004_foot_file/index.md)
+* ❌ [OB39: Do electrical toothbrushes dream of UART?](./scavenge/006_toothbrush/index.md)
