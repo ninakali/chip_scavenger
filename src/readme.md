@@ -10,6 +10,7 @@
 
 ## Scavenges
 * 🔍 [PIC16F from a photoepilator](./scavenge/000_photoepilator/index.md)
+* 🔍 [HCS08 from a lamp that was a bit too smart](./scavenge/005_lamp/index.md)
 * ✅ [8MB SDRAM and 2MB Flash from a DVD player](./scavenge/001_dvd/index.md)
 * ✅ [WiFi, 64MB SDRAM and 16MB Flash from a printer](./scavenge/002_printer/index.md)
 * ❓ [Mysterious microcontroller in a pet fountain](./scavenge/003_fountain/index.md)
