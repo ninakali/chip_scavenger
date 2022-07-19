@@ -23,4 +23,6 @@ I extracted PIC16F in an oven.
 I have not had any better test board for an SSOP chip, so I soldered it back to connect to an UART. It works!
 ![(Serial)](07_done.jpg "Serial")
 
-When I will figure out how to make a SSOP-28 breakout board for it, I might return to this chip.
+~~When I will figure out how to make a SSOP-28 breakout board for it, I might return to this chip.~~
+
+I have soldered an ICSP programmer to the chip, and managed to successfully re-program the chip. It's a success!

@@ -21,5 +21,7 @@ Lurking around Chinese websites, I could make a reasonably fair guess that this 
 According to On-Bright datasheet, while this chip should have onboard UART and lots of tasty computing stuff inside, it comes with a proprietary flasher/bootloader, so it's unlikely I would be able to do anything useful with it. I decided to give it a try anyway.
 ![()](06_wiring.jpeg)
 
-Signals on TX pin do not like a normal UART. Perhaps, it's time to give up on this chip. Salvaged parts: a coil that can be powered by my wireless charger. 
+Signals on TX pin do not like a normal UART. Perhaps, it's time to give up on this chip. Salvaged parts: a coil that can be powered by my wireless charger.
 ![()](07_signal.png)
+
+Turns out, the ICSP programmer is available online for free, and works over RS232 pins. It's worth a try.
