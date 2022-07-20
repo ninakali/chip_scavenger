@@ -20,4 +20,6 @@ And, naturally, it acts exactly like HCS08 datasheet describes, signalling readi
 
 While the protocol for programming is open-source and fairly simple, it is not supported by my flasher. I was about to implement it on RP2040 when I realised that a ready-made flasher costs like $10, so I just ordered one.
 
-To be continued?
+~~To be continued?~~
+
+When the flasher for HCS08 arrived, the flasher tool told me that it can see SYNC signal, but cannot communicate with the device. My guess is that the core is actually RS08, which has the very same pinout, but the flasher tool does not support it. :/ Oh well, maybe one day I will get to the bottom of it.
