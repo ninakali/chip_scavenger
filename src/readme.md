@@ -14,7 +14,9 @@
 * ✅ [8MB SDRAM and 2MB Flash from a DVD player](./scavenge/001_dvd/index.md)
 * ✅ [WiFi, 64MB SDRAM and 16MB Flash from a printer](./scavenge/002_printer/index.md)
 * 🔍 [Can a battery-powered shaver run Doom?](./scavenge/007_shaver/index.md)
+* 🔍 [ARM Cortex M4 from a lightbulb](./scavenge/009_lightbulb/index.md)
 * ❓ [Mysterious microcontroller in a pet fountain](./scavenge/003_fountain/index.md)
 * ❓ [Mysterious microcontroller in a foot file](./scavenge/004_foot_file/index.md)
 * ❓ [OB39: Do electrical toothbrushes dream of UART?](./scavenge/006_toothbrush/index.md)
 * ❓ [RS08? from a lamp that was a bit too smart](./scavenge/005_lamp/index.md)
+
