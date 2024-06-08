@@ -2,6 +2,7 @@
 
 
 ## Methods
+* 🔍 [Identify MCUs by power pins](./methods/004_identify/index.md)
 * ✅ [Pewter as a solder (when you have no tin)](./methods/001_pewter_solder/index.md)
 * ✅ [Baking: unsoldering chips in an oven](./methods/000_baking/index.md)
 * ❓ [Plywood PCB](./methods/003_plywood_board/index.md)
@@ -19,4 +20,4 @@
 * ❓ [Mysterious microcontroller in a foot file](./scavenge/004_foot_file/index.md)
 * ❓ [OB39: Do electrical toothbrushes dream of UART?](./scavenge/006_toothbrush/index.md)
 * ❓ [RS08? from a lamp that was a bit too smart](./scavenge/005_lamp/index.md)
-
+* ❓ [CMCA v2.1: mysterious controller in a shaver ](./scavenge/010_shaver/index.md)
