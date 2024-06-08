@@ -14,6 +14,7 @@
 * ✅ [PIC16F from a photoepilator](./scavenge/000_photoepilator/index.md)
 * ✅ [8MB SDRAM and 2MB Flash from a DVD player](./scavenge/001_dvd/index.md)
 * ✅ [WiFi, 64MB SDRAM and 16MB Flash from a printer](./scavenge/002_printer/index.md)
+* ✅ [A quirky MP3 player from a toy car](./scavenge/011_car_audio/index.md)
 * 🔍 [Can a battery-powered shaver run Doom?](./scavenge/007_shaver/index.md)
 * 🔍 [ARM Cortex M4 from a lightbulb](./scavenge/009_lightbulb/index.md)
 * ❓ [Mysterious microcontroller in a pet fountain](./scavenge/003_fountain/index.md)
